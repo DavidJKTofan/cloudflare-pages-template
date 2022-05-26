@@ -8,7 +8,7 @@ Clone this Repository to your own GitHub account.
 
 ## Step 2
 
-Log in ([new to Cloudflare?](https://developers.cloudflare.com/fundamentals/get-started/)), and go to the Pages tab.
+Access your _free_ Cloudflare account ([new to Cloudflare?](https://developers.cloudflare.com/fundamentals/get-started/)), and go to the Pages tab.
 
 ![pages-tab](/img/readme-img/pages-tab.png)
 
