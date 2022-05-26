@@ -45,6 +45,13 @@ a:hover{text-decoration: none; cursor:pointer;}
 	position:relative;
 }
 
+
+/* Sizes */
+
+.bloc-lg{
+	padding:100px 20px;
+}
+
 /* = Full Screen Blocs 
 -------------------------------------------------------------- */
 
@@ -161,6 +168,9 @@ button{
 	outline: none!important;
 }
 
+.btn-rd{
+	border-radius: 40px;
+}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -221,6 +231,35 @@ button{
 	fill-rule: evenodd;
 	stroke-linecap:round;
 }
+/* = MacBook Devices
+-------------------------------------------------------------- */
+
+.blocsapp-device-mb{
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
+	display: block;
+	width:100%;
+	height:auto;
+	padding: 3.6% 15% 7.5%;
+}
+.blocsapp-device-mb img{
+	width:100%;
+	height:auto;
+	margin: 0 auto;
+}
+.blocsapp-device-mb .ratio::before{
+	padding-top: 56.25%;
+}
+.blocsapp-device-mb .ratio{
+	padding-bottom: 8%;
+}
+/* = MacBook Space Grey
+-------------------------------------------------------------- */
+
+.mb-space-grey{
+	background-image:url("img/Apple-Macbook-Space-Grey.png");
+}
 
 /* = Custom Styling
 -------------------------------------------------------------- */
@@ -242,8 +281,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .text-blue-gradient{
 	background-clip:text!important;
 	-webkit-background-clip:text!important;
-	background:linear-gradient(88deg, #61E1A3, #2F7DFF);
+	background:linear-gradient(150deg, #0051C3 0%, #FF6633 100%);
 	color:transparent!important;
+}
+.feature-col-mt{
+	margin-top:29px;
+}
+.hero-first-col-mb{
+	margin-bottom:30px;
 }
 
 /* = Colour
@@ -254,6 +299,17 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 .tc-black{
 	color:rgba(0,0,0,0.2)!important;
+}
+
+/* Button colour styles */
+
+.btn-portland-orange{
+	background:#FF6633;
+	color:#FFFFFF!important;
+}
+.btn-portland-orange:hover{
+	background:#cc5229!important;
+	color:#FFFFFF!important;
 }
 
 
