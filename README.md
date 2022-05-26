@@ -40,6 +40,12 @@ Share your beautiful website with the world. 🤓
 
 ==> https://cloudflare-pages-template.pages.dev/
 
+## Optional
+
+[Add a custom domain to a branch](https://developers.cloudflare.com/pages/how-to/custom-branch-aliases/).
+
+![custom-domains](/img/readme-img/custom-domains.png)
+
 # Disclaimer
 
 This is a general introduction to Cloudflare Pages. 
