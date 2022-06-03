@@ -42,6 +42,8 @@ Share your beautiful website with the world. 🤓
 
 ## Optional
 
+[Add custom headers to create Content Security Policies (CSP) and more](https://developers.cloudflare.com/pages/platform/headers/)
+
 [Add a custom domain to a branch](https://developers.cloudflare.com/pages/how-to/custom-branch-aliases/).
 
 ![custom-domains](/img/readme-img/custom-domains.png)
