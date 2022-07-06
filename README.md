@@ -24,13 +24,15 @@ Connect your GitHub account, select your Repository, and click "Begin setup".
 
 ## Step 5
 
-The template is made in a way that you don't necessarily need to change anything. 
+If you want, you can update some content, including the [index.html](index.html).
 
-Just hit "Save and Deploy".
+You might want to update the following files with your own parameters:
+- [robots.txt](robots.txt)
+- [sitemap.xml](sitemap.xml)
 
 ## Step 6
 
-Let the magic happen! ✨
+Just hit "Save and Deploy" and let the magic happen! ✨
 
 ![success](/img/readme-img/success.png)
 
@@ -38,7 +40,7 @@ Let the magic happen! ✨
 
 Share your beautiful website with the world. 🤓
 
-==> https://cloudflare-pages-template.pages.dev/
+==> https://cloudflare-pages-template.pages.dev/ (_your link might look different_)
 
 ## Optional
 
@@ -47,6 +49,10 @@ Share your beautiful website with the world. 🤓
 [Add a custom domain to a branch](https://developers.cloudflare.com/pages/how-to/custom-branch-aliases/).
 
 ![custom-domains](/img/readme-img/custom-domains.png)
+
+[Redirecting www to domain apex](https://developers.cloudflare.com/pages/how-to/www-redirect/)
+
+[Build full-stack applications by executing code on the Cloudflare network with help from Cloudflare Workers](https://developers.cloudflare.com/pages/platform/functions/)
 
 # Disclaimer
 
