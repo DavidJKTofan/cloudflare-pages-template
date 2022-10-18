@@ -42,6 +42,12 @@ Share your beautiful website with the world. 🤓
 
 ==> https://cloudflare-pages-template.pages.dev/ (_your link might look different_)
 
+## Step 8 (Metadata)
+
+Added `Functions/_middleware.js` from the GitHub Repo [Dynamic Social Previews Meta Tags with Cloudflare Pages](https://github.com/pew/cloudflare-pages-social-preview), in order to add Meta Tags.
+
+Don't forget to edit the file [_middleware.js](functions/_middleware.js) with your own title, description, and such.
+
 ## Optional
 
 [Add custom headers to create Content Security Policies (CSP) and more](https://developers.cloudflare.com/pages/platform/headers/)
