@@ -48,7 +48,7 @@ Added `Functions/_middleware.js` from the GitHub Repo [Dynamic Social Previews M
 
 Don't forget to edit the file [_middleware.js](functions/_middleware.js) with your own title, description, and such.
 
-## Optional
+## More (Optional) Steps
 
 [Add custom headers to create Content Security Policies (CSP) and more](https://developers.cloudflare.com/pages/platform/headers/)
 
@@ -57,6 +57,8 @@ Don't forget to edit the file [_middleware.js](functions/_middleware.js) with yo
 ![custom-domains](/img/readme-img/custom-domains.png)
 
 [Redirecting www to domain apex](https://developers.cloudflare.com/pages/how-to/www-redirect/)
+
+[Cloudflare Pages gets even faster with Early Hints](https://blog.cloudflare.com/early-hints-on-cloudflare-pages/)
 
 [Build full-stack applications by executing code on the Cloudflare network with help from Cloudflare Workers](https://developers.cloudflare.com/pages/platform/functions/)
 
