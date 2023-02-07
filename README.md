@@ -4,7 +4,9 @@ Get started with [Cloudflare Pages](https://pages.cloudflare.com/) by deploying 
 
 ## Step 1
 
-Clone this Repository to your own GitHub account.
+Clone this Repository to your own GitHub account. 
+
+Or download this Repository as a ZIP file by clicking the green button that says "<> Code" and clicking "Download ZIP", then extract the contents to a new folder, and upload the content (and only the content; not the folder) of that folder to a new GitHub Repository.
 
 ## Step 2
 
@@ -14,7 +16,7 @@ Access your _free_ Cloudflare account ([new to Cloudflare?](https://developers.c
 
 ## Step 3
 
-Click on the blue "Create a project" button, and select "Connect to Git".
+Go to your Cloudflare Dashboard. Click on the blue "Create a project" button, and select "Connect to Git".
 
 ## Step 4
 
